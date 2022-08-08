@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: SlateGrey;
+}
+p {
+    color: white;
+    font-family: Tahoma;
+    font-size: 5.0em;
+    display: inline-block;
+    margin:  40px;
+}
+img {
+    margin: 80px 0 80px 0;
+    width: 450px;
+}
