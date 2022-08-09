@@ -13,6 +13,7 @@ pipeline {
             steps {
                 script {
                     sh "docker push germanib/primer-pipeline:1.0.0-${BUILD_ID}"
+                    //sh "docker"
                 }
             }
         }
